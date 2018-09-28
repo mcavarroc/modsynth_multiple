@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [multiples_mixer.PrjPcb]
+   Generated File[pcb_multiple_mixe.TXT]
+   Generated File[pcb_multiple_mixe.LDP]
+   Generated File[pcb_multiple_mixe.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:34:59 On 28/09/2018
